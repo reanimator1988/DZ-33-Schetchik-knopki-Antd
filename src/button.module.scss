@@ -1,0 +1,19 @@
+.button {
+  font-size: 1.2rem !important;
+  font-weight: bold !important;
+  height: 40px !important;
+  margin: 5px !important;
+  cursor: pointer !important;
+}
+
+  .reset {
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    width: 110px;
+    background-color: green;
+  
+    span {
+      font-weight: bold;
+    }
+  }

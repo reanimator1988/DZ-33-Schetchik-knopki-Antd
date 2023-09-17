@@ -1,0 +1,32 @@
+@import './button.module.scss';
+
+.heading {
+  font-size: 43px;
+  text-align: center;
+  margin: 0;
+  padding-top: 25px;
+  margin-bottom: 50px;
+}
+
+h2 {
+  font-size: 30px;
+  text-align: center;
+}
+
+.App {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .counter {
+    width: 20%;
+    border: 1px solid #ccc;
+    padding: 20px;
+    display: inline-block;
+  }
+  
+  .count {
+    font-size: 3rem;
+    margin-bottom: 30px;
+  }
+
