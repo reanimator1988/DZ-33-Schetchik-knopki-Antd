@@ -1,4 +1,5 @@
 .button {
+  width: 50px !important;
   font-size: 1.2rem !important;
   font-weight: bold !important;
   height: 40px !important;
@@ -11,6 +12,7 @@
     margin: 0 auto;
     margin-top: 10px;
     width: 110px;
+    height: 40px;
     background-color: green;
   
     span {
