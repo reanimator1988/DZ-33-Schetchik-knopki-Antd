@@ -2,6 +2,7 @@
   !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./src/App.module.scss ***!
   \******************************************************************************************************************************************/
 .vuNW2vj6Sg6ecqnjBWHJ {
+  width: 50px !important;
   font-size: 1.2rem !important;
   font-weight: bold !important;
   height: 40px !important;
@@ -13,6 +14,7 @@
   margin: 0 auto;
   margin-top: 10px;
   width: 110px;
+  height: 40px;
   background-color: green; }
   .Bp4gzGUVlNtTzVcld9i9 span {
     font-weight: bold; }
